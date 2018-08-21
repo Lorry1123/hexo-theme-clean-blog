@@ -1,15 +1,14 @@
 # Header
 menu:
-  Home: /
-  Archives: /archives
-  Tags: /tags
-  Categories: /categories
+  首页: /
+  文章: /archives
+  分类: /tags
   Github:
-    url: https://github.com/klugjo/hexo-theme-clean-blog
+    url: https://github.com/Lorry1123
     icon: github
 
 # Title on top left of menu. Leave empty to use main blog title
-menu_title: Configurable Title
+menu_title: Lorry1123的随手记
 
 # URL of the Home page image
 index_cover: http://www.codeblocq.com/assets/projects/hexo-theme-clean-blog/img/home-bg.jpg
@@ -40,7 +39,8 @@ favicon:
 twitter_url:
 twitter_handle:
 facebook_url:
-github_url: https://github.com/klugjo/hexo-theme-clean-blog
+github_url: https://github.com/Lorry1123
+email: Lorry1123@outlook.com
 gitlab_url:
 linkedin_url:
 mailto:
